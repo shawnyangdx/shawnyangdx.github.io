@@ -3,6 +3,8 @@ layout: post
 title: >
     KillAsset使用指南
 tags: [Unity, 插件]
+thumbnail: "assets/img/feature-img/killAsset.jpg"
+color: gray
 ---
 这是一个关于unity资源清理的插件，可快速进行资源的整理。
 插件链接见文结尾。
